@@ -1,2 +1,2 @@
 #!/bin/bash
-grep echo "Reverse" | esreveR /tmp/0x02$
+rev
