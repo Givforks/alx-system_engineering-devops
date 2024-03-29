@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 # Generate a ssh key pair
-ssh-keygen -b 4096 -f ubuntu -t rsa -P hello
+ssh-keygen -t rsa -b 4096 -p betty -f ~/.ssh/school
