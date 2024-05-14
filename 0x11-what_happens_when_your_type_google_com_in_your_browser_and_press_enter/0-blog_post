@@ -1,0 +1,13 @@
+As a Full-stack Developer software Engineer, here are the threads of processes that happens:
+```
+When type in your browser and press Enter, several things happen:
+
+1. Your browser sends a request to a Domain Name System (DNS) server to look up the IP address associated with (link unavailable)
+2. The DNS server responds with the IP address of a Google server (e.g., 116.58.194.200).
+3. Your browser establishes a connection to the Google server using the HTTP (Hypertext Transfer Protocol) or HTTPS (Hypertext Transfer Protocol Secure) protocol.
+4. Your browser sends an HTTP request to the Google server, specifying the desired resource (in this case, the Google homepage).
+5. The Google server processes the request and generates an HTML response, which includes the content of the webpage, such as text, images, and links.
+6. The Google server sends the HTML response back to your browser.
+7. Your browser receives the response and renders the webpage, displaying the Google homepage with its search bar, logo, and other elements.
+
+This all happens rapidly, usually in a matter of milliseconds!!!.
