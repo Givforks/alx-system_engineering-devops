@@ -1,0 +1,16 @@
+[34m
+* Datadog Agent 7 install script v1.31.6
+[0m
+[34m
+* Installing apt-transport-https, curl and gnupg
+[0m
+Get:1 http://security.ubuntu.com/ubuntu jammy-security InRelease [110 kB]
+Hit:2 http://archive.ubuntu.com/ubuntu jammy InRelease
+Hit:3 https://deb.nodesource.com/node_14.x jammy InRelease
+Get:4 http://archive.ubuntu.com/ubuntu jammy-updates InRelease [119 kB]
+Hit:5 https://dl.yarnpkg.com/debian stable InRelease
+Get:6 https://apt.releases.hashicorp.com jammy InRelease [12.9 kB]
+Hit:7 https://ppa.launchpadcontent.net/git-core/ppa/ubuntu jammy InRelease
+Hit:8 https://ppa.launchpadcontent.net/ubuntu-toolchain-r/ppa/ubuntu jammy InRelease
+Hit:9 https://ppa.launchpadcontent.net/vbernat/haproxy-2.4/ubuntu jammy InRelease
+Hit:10 http://archive.ubuntu.com/ubuntu jammy-backports InRelease
