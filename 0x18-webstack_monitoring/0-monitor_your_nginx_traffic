@@ -1,2 +1,14 @@
-suf6kzUPDRjUMB
-mSTcZusCZXbmEjoyJXusuiGfYWqBO8SMrE2FMPZwe6smLcrzzWUI0GbZLFRuhcD7
+{
+	"name": "",
+	"type": "query alert",
+	"query": "avg(last_5m):avg:system.load.1{*} > null",
+	"message": "",
+	"tags": [],
+	"options": {
+		"thresholds": {
+			"critical": null
+		},
+		"notify_audit": false,
+		"include_tags": false
+	}
+}

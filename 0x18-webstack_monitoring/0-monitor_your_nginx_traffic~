@@ -1,2 +1,14 @@
-su144TtNNULZnx
-RneNA2SvKs4gLKmPip5gtJlMDNZiqFOf6sVGBa5funycQLDkJtLTQgKvkvlnlDG2
+{
+	"name": "",
+	"type": "query alert",
+	"query": "avg(last_5m):avg:system.load.1{*} > null",
+	"message": "",
+	"tags": [],
+	"options": {
+		"thresholds": {
+			"critical": null
+		},
+		"notify_audit": false,
+		"include_tags": false
+	}
+}
